@@ -88,6 +88,19 @@ $languageStrings = array(
         'SMS Task'=>'Tarefa SMS', 
         'Summary'=>'Descrição',
         'Update Fields'=>'Atualizar Campos',
+        'ON_SCHEDULE'=>'Agendar',
+        'LBL_RUN_WORKFLOW'=>'Executar Workflow',
+        'LBL_HOURLY'=>'A cada hora',
+        'LBL_DAILY'=>'Diariamente',
+        'LBL_AT_TIME'=>'Na Hora',
+        'LBL_ON_THESE_DAYS'=>'Nos Dias',
+        'LBL_WEEKLY'=>'Semanalmente',
+        'LBL_CHOOSE_DATE'=>'Escolher data',
+        'LBL_SPECIFIC_DATE'=>'Data Específica',
+        'LBL_MONTHLY_BY_DATE'=>'Mensalmente por Data',
+        'LBL_SELECT_MONTH_AND_DAY'=>'Selecione Mês e Dia',
+        'LBL_YEARLY'=>'Anualmente',
+        'LBL_SELECTED_DATES'=>'Datas selecionadas',
 
 );
 
