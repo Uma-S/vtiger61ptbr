@@ -101,6 +101,7 @@ $languageStrings = array(
         'LBL_SELECT_MONTH_AND_DAY'=>'Selecione Mês e Dia',
         'LBL_YEARLY'=>'Anualmente',
         'LBL_SELECTED_DATES'=>'Datas selecionadas',
+        'LBL_NEXT_TRIGGER_TIME'=>'Hora Próxima Disparo',
 
 );
 
