@@ -178,6 +178,7 @@ $languageStrings = array(
 	'LBL_WORKFLOW_LIST' => 'Lista de Workflow',
 	'LBL_WORKFLOWS_ACTIVE' => 'Workflows',
 	'LBL_WORLD_CLOCK_DISPLAY' => 'Exibir Relógio Mundial',
+        'LBL_EXTENSION_STORE' => 'Loja de Extensões',
 	'LoginHistory' => 'Histórico Acesso Usuário',
 	'logoname' => 'Logo da Empresa',
 	'ModTracker' => 'Rastreador Módulos',
