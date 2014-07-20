@@ -53,7 +53,7 @@ $languageStrings = array(
 	'LBL_VTIGER_EXTENSION_STORE' => 'Loja de Extensões do Vtiger',
         'LBL_DISCLAIMER_FOR_IMPORT_FROM_ZIP' => '<b>Aviso - Arquivos customizados podem colocar seu CRM em risco</b> <br>  
                                                  Esta funcionalidade foi disponibilizada para que os Desenvolvedores testem seus novos módulos.
-                                                 Se você está instalando a partir de um arquivo fornecido por tericeiros, por favor, prossiga somente se confiar no fornecedor. Módulos customizados podem incluir vulnerabilidades de segurança e sobrescrever arquivos do Sistema colocando em risco seu CRM. O módulo que você está prestes a instalar não foi revisto pela equipe do Vtiger.',
+                                                 Se você está instalando a partir de um arquivo fornecido por terceiros, por favor, prossiga somente se confiar no fornecedor. Módulos customizados podem incluir vulnerabilidades de segurança e sobrescrever arquivos do Sistema colocando em risco seu CRM. O módulo que você está prestes a instalar não foi revisto pela equipe do Vtiger.',
 
 );
 $jsLanguageStrings = array(

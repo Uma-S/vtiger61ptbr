@@ -687,6 +687,8 @@ $languageStrings = array(
         'Google Contacts'=>'Contatos Google',
         //Missing Field in My Preferences > “More Information” block
         'CRM Phone Extension'=>'Ramal PBX',
+
+        'Created By'=>'Criado Por',
 );
 
 $jsLanguageStrings = array(
