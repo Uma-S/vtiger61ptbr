@@ -5,27 +5,27 @@
  * The Original Code is:  vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger. All Rights Reserved.
- * Contributor(s): Valmir C. Trindade - Translate to Brazilian Portuguese - 17/07/2014 - www.ttcasolucoes.com.br
+ * Contributor(s): Valmir C. Trindade - Translate to Brazilian Portuguese - 28/07/2014 - www.ttcasolucoes.com.br
  *************************************************************************************/
 $languageStrings = array(
 	'LBL_ACCEPT_AND_INSTALL' => 'Aceitar e Instalar',
-        'LBL_ACCEPT_WITH_THE_DISCLAIMER' => 'Estou ciente e gostaria de continuar',
+    'LBL_ACCEPT_WITH_THE_DISCLAIMER' => 'Estou ciente e gostaria de continuar',
 	'LBL_DECLINE' => 'Rejeitar',
 	'LBL_EXISTS'=>'Existe',
 	'LBL_EXTENSION_NOT_COMPATABLE' => 'A Extensão não é compatível com o Vtiger',
-        'LBL_EXTENSION_STORE' => 'Loja de Extensões',
+    'LBL_EXTENSION_STORE' => 'Loja de Extensões',
 	'LBL_FAILED' => 'Falhou',
 	'LBL_FINISH' => 'Final',
 	'LBL_IMPORTED_MODULE' => ' o módulo foi importado com sucesso.',
 	'LBL__IMPORTING_MODULE' => 'Importando Módulo',
-        'LBL_IMPORT_MODULE_FROM_ZIP' => 'Importar Módulo a partir do Zip',
+    'LBL_IMPORT_MODULE_FROM_ZIP' => 'Importar Módulo a partir do Zip',
 	'LBL_IMPORT_MODULE' => 'Importar Módulo',
 	'LBL_IMPORT_MODULE' => 'Instalar a partir Vtiger ...',
-        'LBL_IMPORT_NOW' => 'Importar Agora',
+    'LBL_IMPORT_NOW' => 'Importar Agora',
 	'LBL_IMPORT_ZIP' => 'Instalar a partir Arquivo ...',
 	'LBL_INSTALLATION' => 'Instalação',
 	'LBL_INSTALLATION_LOG' => 'Log da Instalação',
-        'LBL_INSTALL_FROM_ZIP' => 'Instalar a partir do Zip',
+    'LBL_INSTALL_FROM_ZIP' => 'Instalar a partir do Zip',
 	'LBL_INSTALL' => 'Instalar',
 	'LBL_INVALID_FILE' => 'Arquivo Inválido',
 	'LBL_INVALID_IMPORT_TRY_AGAIN' => ' fornecida para importar o módulo! Tente Novamente.',
@@ -54,7 +54,40 @@ $languageStrings = array(
         'LBL_DISCLAIMER_FOR_IMPORT_FROM_ZIP' => '<b>Aviso - Arquivos customizados podem colocar seu CRM em risco</b> <br>  
                                                  Esta funcionalidade foi disponibilizada para que os Desenvolvedores testem seus novos módulos.
                                                  Se você está instalando a partir de um arquivo fornecido por terceiros, por favor, prossiga somente se confiar no fornecedor. Módulos customizados podem incluir vulnerabilidades de segurança e sobrescrever arquivos do Sistema colocando em risco seu CRM. O módulo que você está prestes a instalar não foi revisto pela equipe do Vtiger.',
-
+        //Extension Store translations
+        'LBL_VTIGER_EXTENSION_STORE' => 'Loja de Extensões Vtiger',
+        'LBL_SEARCH_FOR_AN_EXTENSION'  => 'Pesquisar por uma Extensão..',
+        'LBL_DOWNLOADS' => 'Downloads',
+        'LBL_NO_EXTENSIONS_FOUND' => 'Nenhuma Extensão foi Encontrada',
+        'LBL_REGISTER_NOW' => 'Registrar Agora',	
+        'LBL_RATINGS' => 'Avaliações',
+        'LBL_DESCRIPTION' => 'Descrição',
+        'LBL_AUTHOR_INFORMATION' => 'Informações do Autor',
+        'LBL_AUTHOR_NAME' => 'Nome do Autor',
+        'LBL_PHONE' => 'Telefone',
+        'LBL_EMAIL' => 'Email',
+        'LBL_SCREEN_SHOTS' => 'Imagens',
+        'LBL_CUSTOMER_RATINGS' => 'Avaliações Clientes',
+        'LBL_CUSTOMER_REVIEWS' => 'Comentários Clientes',
+        'LBL_WRITE_A_REVIEW' => 'Escrever um Comentário',
+        'LBL_CUSTOMER_REVIEW' => 'Comentário Cliente',
+        'LBL_REVIEW' => 'Comentário',
+        'LBL_CUSTOMERS_REVIEWED' => 'Avaliado Clientes',
+        'LBL_SINGLE_CUSTOMER_REVIEWED' => 'Avaliado Único Cliente',
+        'LBL_INSTALLATION_FAILED' => 'A instalação Falhou',
+        'LBL_SUCCESSFULL_INSTALLATION' => 'Instalado com Sucesso',
+        'LBL_MORE_DETAILS' => 'Mais Detalhes',
+        'LBL_INSTALLED' => 'Instalado',
+        'Install' => 'Instalar',
+        'Upgrade' => 'Atualizar',
+        'LBL_RATE_IT' => 'Avalie.',
+        'LBL_UNINSTALL' => 'Desinstalar',
+        'LBL_LAUNCH' => 'Iniciar',
+    
+        'email' => 'Email',
+        'company' => 'Empresa',
+        'Phone' => 'Telefone',
+        'Website' => 'Website',
 );
 $jsLanguageStrings = array(
   'JS_ON' => 'em',
