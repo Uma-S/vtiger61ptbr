@@ -40,7 +40,6 @@ $languageStrings = array(
 	'SINGLE_Accounts' => 'Organização' ,
 	'Ticker Symbol'=> 'Cod. Bolsa', 
 	'Website'=> 'Website' , 
-
 	//Missing Fields in Right Bar | Valmir C Trindade
 	'Sales Order'=>'Pedido Vendas',
 	'Activities'=>'Atividades',
