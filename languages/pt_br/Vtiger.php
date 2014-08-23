@@ -5,7 +5,7 @@
  * The Original Code is:vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger. All Rights Reserved.
- * Contributor(s): Valmir C. Trindade - Translate to Brazilian Portuguese - 13/08/2014 - www.ttcasolucoes.com.br
+ * Contributor(s): Valmir C. Trindade - Translate to Brazilian Portuguese - 22/08/2014 - www.ttcasolucoes.com.br
  ************************************************************************************/
 $languageStrings = array(
 	'--None--' => '--Nada--',
@@ -77,9 +77,9 @@ $languageStrings = array(
 	'Environmental'=> 'Meio Ambiente' ,
 	'Excise Duty'=> 'IPI' , 
 	'Existing Customer'=> 'Cliente Existente' ,
-	'Expected Close Date'=> 'Previsão Fechamento', 
-	'Fax: ' => 'Fax: ',
+	'Expected Close Date'=> 'Previsão Fechamento',
 	'Fax'=> 'Fax' , 
+	'Fax: ' => 'Fax: ',
 	'FedEx'=> 'FedEx' ,
 	'Finance'=> 'Finanças' ,
 	'First Name' => 'Nome',
@@ -628,6 +628,10 @@ $languageStrings = array(
 	'Web Site' => 'Web Site',
 	'Website: ' => 'Website: ',
 	'Word of mouth'=> 'Boca a Boca' ,
+	    
+        //Promotion translations
+        'LBL_HIDE_PROMOTION' => 'Ocultar Promoção',
+        'LBL_SHOW_PROMOTION' => 'Exibir Promoção',
         //Missing Fields
 	'PickListDependency'=>'Dependência Lista Opções',
 	'Users'=>'Usuários',
@@ -821,4 +825,8 @@ $jsLanguageStrings = array(
 	'SHOULD_BE_LESS_THAN_TODAY' => 'Deve ocorrer antes de hoje' ,
 	'SINGLE_Accounts' => 'Organização',
 	'SINGLE_Contacts' => 'Contato' ,
+	
+	        //Promotion translations
+        'JS_HIDE_PROMOTION' => 'Ocultar Promoção',
+        'JS_SHOW_PROMOTION' => 'Exibir Promoção',
 );
