@@ -205,7 +205,6 @@ $languageStrings = array(
 	'Signin Time'=>'Horário Conexão',
 	'Signout Time'=>'Horário Desconexão',
 	'User Name'=>'Nome Usuário',
-<<<<<<< HEAD
 	//Extension Store Missing Fields
 	'LBL_VTIGER_EXTENSION_STORE'=>'Loja de Extensões Vtiger',
 	'LBL_REGISTER_TO_MARKET_PLACE'=>'Registrar na Loja',
